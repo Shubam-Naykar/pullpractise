@@ -4,3 +4,5 @@ after remote adding
 After final commit
 Will see after pull request from remote repository 
 
+After rebasing git config pull.rebase true 
+
