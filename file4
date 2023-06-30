@@ -1,4 +1,8 @@
 this is file4 in local to remote
+<<<<<<< HEAD
 
 
 changing on remote repository.
+=======
+fter rebase true
+>>>>>>> 26d9c35 (Local commit 7th)
